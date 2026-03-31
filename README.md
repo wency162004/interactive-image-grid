@@ -3,7 +3,9 @@
 An interactive and visually engaging image gallery built using **HTML** and **CSS Grid**.
 This project demonstrates hover animations and dynamic content display using pure CSS.
 
+##live Demo
 
+ https://wency162004.github.io/interactive-image-grid/
 
 ## Screenshots
 ![moutain tablet](https://github.com/user-attachments/assets/541ca624-d302-4bbe-862c-c4f67335ed1a)
